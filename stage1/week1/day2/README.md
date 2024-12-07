@@ -1,5 +1,5 @@
 1. Buatlah Dokumentasi tentang Linux Command yang kamu ketahui!
-jawaban:/
+jawaban: 
 -sudo
 sudo adalah perintah untuk menjalankan hak akses superuser atau root, sudo tidak bisa dijalankan sendiri harus disertai dengan perintah lainnya jika sudo di jalankan sendiri maka yang akan terjadi seperti dibawah gambar dibawah ini
 ![Screenshot from 2024-12-07 19-48-57](https://github.com/user-attachments/assets/4f01ea77-16fc-4e5f-8b6d-41758c069544)
