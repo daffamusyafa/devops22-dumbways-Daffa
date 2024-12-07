@@ -65,22 +65,27 @@ mencari file berdasarkan nama
 
 -wget
 mendownload melalui link
+
 ![image](https://github.com/user-attachments/assets/f701d018-24cb-40fc-84db-8d72fdc4c540)
 
 -history
 menampilkan perintah yang sudah dijalankan sebelumnya
+
 ![image](https://github.com/user-attachments/assets/2a8d397d-6c82-4ac8-8f56-5361d68c8b09)
 
 -zip
 membuat file zip dengan menggabungkan beberapa file
+
 ![image](https://github.com/user-attachments/assets/230876f9-3802-45cb-a222-c25a0347b0e6)
 
 -unzip
 mengekstrak file zip
+
 ![image](https://github.com/user-attachments/assets/ccfc9ce8-571c-4668-b33c-bb8b8d1c588f)
 
 -ping
 untuk mengetahui konektivitas
+
 ![image](https://github.com/user-attachments/assets/aac2f013-1015-4204-af45-c45ffae873cc)
 
 2. Jelaskan Perbedaan antara IP Private & Public, serta IP Dynamic & Static!
