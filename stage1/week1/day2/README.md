@@ -26,12 +26,16 @@ perintah untuk masuk kedalam sebuah folder atau file
 perintah untuk membuat file
 ![image](https://github.com/user-attachments/assets/3924ee74-bbb8-4b1f-909c-3a77e1d6aff2)
 
+
 -mv
 perintah untuk memindahkan dan mengganti nama file dan folder
+
 ![image](https://github.com/user-attachments/assets/58837bda-0408-462c-a298-c1931c9b9115)
+
 
 -rm
 menghapus file dan folder
+
 ![image](https://github.com/user-attachments/assets/3ff220ac-e772-4c4a-88a8-a9eb813f9919)
 
 -cp
