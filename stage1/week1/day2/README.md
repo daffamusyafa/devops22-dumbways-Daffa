@@ -40,22 +40,27 @@ menghapus file dan folder
 
 -cp
 menyalin folder atau file
+
 ![image](https://github.com/user-attachments/assets/030c4652-e4f4-4131-9e2a-2bd08ee41b00)
 
 -chown
 mengganti kepemilikan sebuah file
+
 ![image](https://github.com/user-attachments/assets/b7a53391-9eef-4b5f-93fd-a1d22e20fc7b)
 
 -cat
 melihat isi file
+
 ![image](https://github.com/user-attachments/assets/9a03ef7f-38ad-4688-9389-79f8da00bd4f)
 
 -chmod
 digunakan untuk mengubah hak akses
+
 ![image](https://github.com/user-attachments/assets/a71c3a52-2618-491c-972c-d17c014e4103)
 
 -grep
 mencari file berdasarkan nama
+
 ![image](https://github.com/user-attachments/assets/e3cf10c9-9106-4dec-8f00-9aab946d07a4)
 
 -wget
