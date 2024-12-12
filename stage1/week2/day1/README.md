@@ -68,12 +68,16 @@ menandai file yang berektensikan .yaml
 
 -git config --list
 
-
-
 ![image](https://github.com/user-attachments/assets/9aa97707-b208-4c8c-aaab-54e25e3a1bf8)
 
--
 
+-git remote add origin
+
+untuk menentukan dimana destinasi perubahan yang kita buat di terminal linux ke sebuah repositori github
+
+![image](https://github.com/user-attachments/assets/ae9cfbaf-992f-4616-b933-5edbbeae88c5)
+
+-git
 
 
    
