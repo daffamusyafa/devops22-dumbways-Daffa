@@ -77,8 +77,24 @@ untuk menentukan dimana destinasi perubahan yang kita buat di terminal linux ke 
 
 ![image](https://github.com/user-attachments/assets/ae9cfbaf-992f-4616-b933-5edbbeae88c5)
 
--git
+-git push origin master
 
+
+
+![image](https://github.com/user-attachments/assets/2b34e9e1-8ac4-4254-b155-39cfa9e1cbbc)
+
+-ssh-keygen
+
+untuk melihat ssh key
+
+![image](https://github.com/user-attachments/assets/3a372630-0d12-4e11-84f5-11d00307ec46)
+
+
+-ssh -T git@github
+
+menghubungkan ke github menggunakan ssh key
+
+![image](https://github.com/user-attachments/assets/3998476b-dacd-4541-bd68-6ba46e319f4f)
 
    
 4. Study Case
