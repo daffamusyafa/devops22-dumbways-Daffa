@@ -1,1 +1,62 @@
+1. Buatlah Dokumentasi tentang ShortCut dari Text Editor Nano yang kamu ketahui!
 
+jawab:
+
+ada 2 jenis shortcut di nano,pertama yang ditandai dengan ^ maka bisa digunakan menggunakan ctrl contoh Help ^G maka tekan ctrl+G,kedua ada yang tanpa ^ maka bisa digunakan dengan menekan Alt contoh M-U untuk undo maka klik Alt+M+U dibawah ini merupakan beberapa contoh shortcutnya
+
+Ctrl + O	Simpan file (Write Out).
+
+![image](https://github.com/user-attachments/assets/3adb3514-002c-4ab0-9f7a-f1291c1f3b10)
+
+Ctrl + X	Keluar dari nano dan juga bisa sekaligus membuat file yang berisikan text
+
+![image](https://github.com/user-attachments/assets/1b482607-773f-4be3-b81c-4eabacd5fbe0)
+
+Ctrl + W	Cari teks di dalam file.
+
+![image](https://github.com/user-attachments/assets/45d4b824-3ec2-4e9b-8fb4-8f667bac129d)
+
+![image](https://github.com/user-attachments/assets/0d5d1d33-a7c4-4d79-9742-7136805e156f)
+
+Ctrl + K	Potong baris saat ini.
+Ctrl + U	Tempel teks yang sebelumnya dipotong.
+Ctrl + G	Tampilkan panduan bantuan.
+Ctrl + C	Tampilkan posisi kursor (baris, kolom).
+Ctrl + \	Cari dan ganti teks.
+Ctrl + J	Merapikan paragraf.
+Ctrl + R	Masukkan file lain ke dalam file saat ini.
+Ctrl + T	Periksa ejaan (jika tersedia).
+Alt + A	Mulai memilih teks.
+Alt + 6	Salin teks yang dipilih.
+Ctrl + V	Gulir ke bawah satu layar.
+Ctrl + Y	Gulir ke atas satu layar.
+Ctrl + A	Pindah ke awal baris.
+Ctrl + E	Pindah ke akhir baris.
+Ctrl + Space	Pindah ke kata berikutnya.
+Alt + Space	Pindah ke kata sebelumnya.
+Ctrl + _	Lompat ke baris dan kolom tertentu.
+
+2. Buatlah Dokumentasi tentang Manipulation Text yang kamu ketahui
+
+jawab:
+
+3. Soal Case: 
+Anda bekerja di sebuah tim data analis untuk sebuah situs web yang menampilkan data pembalap Formula 1. Data pembalap disimpan dalam sebuah file teks md yang bernama formula-one-drivers.md, dengan format sebagai berikut:```
+  ID,Nama,Tim,Posisi,Gaji
+  001,Lewis Hamilton,Mercedes,1,70000000
+  002,Max Verstappen,Red Bull Racing,2,50000000
+  003,Sergio Perez,Red Bull Racing,3,25000000
+  004,Charles Leclerc,Ferrari,4,15000000
+  005,Lando Norris,Mclaren,5,10000000
+  006,Daniel Ricciardo,AlphaTauri,6,8000000``` 
+  Tugas kalian adalah melakukan beberapa manipulasi text menggunakan perintah `sed` di Linux. Berikut adalah beberapa hal yang harus kalian lakukan.
+  - Mengganti kata "Red Bull Racing" dengan "Red Bull Racing Honda" pada kolom Tim.
+  - Menghapus seluruh baris yang berisi pembalap dengan posisi lebih dari 3
+
+4. Buatlah Bash Script untuk melakukan installasi webserver, dengan kebutuhan case: jika user menginputkan nomor 1 maka dia akan melakukan installasi WebServer Nginx dan jika user menginputkan nomor 2 maka akan melakukan installasi WebServer Apache2 
+
+5. Implementasikan Firewall pada linux server kalian. 
+    - Buatlah 2 buah Virtual Machine. 
+    - Study case nya adalah agar hanya server A yang hanya dapat mengakses WebServer yang ada pada server B.
+    - Carilah cara agar UFW dapat memblokir ataupun mengizinkan specific protocol jaringan seperti TCP dan UDP.
+    - Jelaskan perbedaan protocol Jaringan TCP serta UDP.
