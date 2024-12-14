@@ -8,8 +8,11 @@
 
    jawab:
 
+   1.modified
+   2.staging
+   3.commit
    
-3. Buatlah Dokumentasi tentang Command yang ada di Git (boleh di tambahkan beberapa command yang mungkin belum kita pelajari pada saat pembahasan di kelas)
+4. Buatlah Dokumentasi tentang Command yang ada di Git (boleh di tambahkan beberapa command yang mungkin belum kita pelajari pada saat pembahasan di kelas)
 
    jawab:
 
@@ -170,5 +173,15 @@ git commit -m "fix: Typo on Description"`.  Teguh kebetulan juga membuat perubah
 jawab:
 
 Dengan melakukan git pull sebelum melakukan git push
+
+--------------tanpa git pull---------------------
+
+![Screenshot from 2024-12-14 15-17-08](https://github.com/user-attachments/assets/85c80df4-e9c7-4df4-85f2-49416524dbb9)
+
+
+![image](https://github.com/user-attachments/assets/c9953d8c-3142-4d45-9c72-ca71ec2d864f)
+
+------------dengan git pull------------------
+
 
 
