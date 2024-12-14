@@ -77,6 +77,16 @@ untuk menentukan dimana destinasi perubahan yang kita buat di terminal linux ke 
 
 ![image](https://github.com/user-attachments/assets/ae9cfbaf-992f-4616-b933-5edbbeae88c5)
 
+-git remote set-url origin
+
+untuk menghubungkan virtual machine dengan github menggunakan link ssh
+
+![Screenshot from 2024-12-14 14-18-46](https://github.com/user-attachments/assets/417b338d-f36f-4da6-a019-7a2ecca8e87b)
+
+
+![image](https://github.com/user-attachments/assets/835c6aa4-cbaa-4293-86ff-27a97d83b242)
+
+
 -git push origin master
 
 
@@ -131,6 +141,25 @@ membuat branch baru bernama development
 digunakan untuk menyamakan perubahan dari remote repository untuk menghindari terjadinya konflik
 
 ![image](https://github.com/user-attachments/assets/c7ca523f-e1f2-4f44-8163-c08b7592aa1a)
+
+-git merge
+
+digunakan untuk menggabungkan file
+
+![image](https://github.com/user-attachments/assets/92c78c59-3307-4825-aa2f-b86360ccf020)
+
+-git clone
+
+untuk mengkloning sebuah repository di github
+
+![image](https://github.com/user-attachments/assets/4246b418-021b-4182-bf85-349f709094f8)
+
+-git remote add origin2 git@github.com:daffamusyafa/demo-git-bath.git
+
+membuat remote baru dengan nama origin2
+
+![image](https://github.com/user-attachments/assets/4624740b-e0a9-4e03-ba61-f9eabe41d230)
+
 
    
 4. Study Case
