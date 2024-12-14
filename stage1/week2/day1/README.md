@@ -182,7 +182,8 @@ Dengan melakukan git pull sebelum melakukan git push
 
 ------------dengan git pull------------------
 
-![image](https://github.com/user-attachments/assets/be497bad-ea28-408e-aa4b-d70eee38d56b)
+![image](https://github.com/user-attachments/assets/e4bd48dd-f38a-406f-ab00-9fcec01a9f71)
+
 
 
 
