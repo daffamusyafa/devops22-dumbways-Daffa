@@ -126,8 +126,11 @@ membuat branch baru bernama development
 
 ![image](https://github.com/user-attachments/assets/81d12a4c-7c41-4738-be36-bc006cee63b7)
 
--
+-git pull
 
+digunakan untuk menyamakan perubahan dari remote repository untuk menghindari terjadinya konflik
+
+![image](https://github.com/user-attachments/assets/c7ca523f-e1f2-4f44-8163-c08b7592aa1a)
 
    
 4. Study Case
@@ -136,5 +139,7 @@ membuat branch baru bernama development
 git commit -m "fix: Typo on Description"`.  Teguh kebetulan juga membuat perubahan pada index.html dan melakukan commit: `git add index.html ; git commit -m "feat: Header Adjustment"`. Kemudia disini ternyata Reyhan melakukan `push` ke repository. Teguh, yang belum melakukan push, mencoba untuk melakukan push ke repositori. Karena ternyata ada perubahan baru di remote yang belum dimiliki Teguh, Git menolak push Teguh dan memberi tahu bahwa ada konflik. Disini Teguh harus melakukan Fix Conflict tersebut agar perubahan yang di buat oleh Teguh dapat tersimpan ke dalam repositori app tersebut. lalu bagaimana cara menangani case yang dimiliki oleh Teguh?
 
 jawab:
+
+Dengan melakukan git pull sebelum melakukan git push
 
 
