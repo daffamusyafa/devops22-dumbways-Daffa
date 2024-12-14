@@ -19,26 +19,90 @@ Ctrl + W	Cari teks di dalam file.
 ![image](https://github.com/user-attachments/assets/0d5d1d33-a7c4-4d79-9742-7136805e156f)
 
 Ctrl + K	Potong baris saat ini.
+
 Ctrl + U	Tempel teks yang sebelumnya dipotong.
+
 Ctrl + G	Tampilkan panduan bantuan.
+
 Ctrl + C	Tampilkan posisi kursor (baris, kolom).
+
 Ctrl + \	Cari dan ganti teks.
+
 Ctrl + J	Merapikan paragraf.
+
 Ctrl + R	Masukkan file lain ke dalam file saat ini.
+
 Ctrl + T	Periksa ejaan (jika tersedia).
+
 Alt + A	Mulai memilih teks.
+
 Alt + 6	Salin teks yang dipilih.
+
 Ctrl + V	Gulir ke bawah satu layar.
+
 Ctrl + Y	Gulir ke atas satu layar.
+
 Ctrl + A	Pindah ke awal baris.
+
 Ctrl + E	Pindah ke akhir baris.
+
 Ctrl + Space	Pindah ke kata berikutnya.
+
 Alt + Space	Pindah ke kata sebelumnya.
+
 Ctrl + _	Lompat ke baris dan kolom tertentu.
+
 
 2. Buatlah Dokumentasi tentang Manipulation Text yang kamu ketahui
 
 jawab:
+
+-cat
+
+digunakan untuk membuat file baru dengan isinya selain itu bisa juga untuk menggabungkan file
+
+![image](https://github.com/user-attachments/assets/e2795456-f176-4cef-953b-a459387e0378)
+
+![image](https://github.com/user-attachments/assets/72f2de28-91dd-44a3-aa46-f4045483845f)
+
+-echo
+
+menambahkan text kedalam file
+
+![image](https://github.com/user-attachments/assets/30f1b047-473c-47bf-b73d-bc10c237ceed)
+
+-sed -i '/s/hello/terea/g' > file1
+
+mengganti kata dalam sebuah file
+
+![image](https://github.com/user-attachments/assets/a9bdf87b-8aeb-4640-9abb-462e2e0a1414)
+
+-history | grep "echo"
+
+mencari history perintah echo
+
+![image](https://github.com/user-attachments/assets/42eb0328-edd6-4993-bc95-7d60bf9c6fcd)
+
+-sort
+
+mengurutkan angka dari yang terkecil ke yang terbesar berdasarkan angka (untuk descending tinggal menambahkan -r setelah sort)
+
+![image](https://github.com/user-attachments/assets/058e76da-7a7c-4760-a703-b66e1e815c17)
+
+-tail
+
+manampilkann baris terakhir dari sebuah file dengan default 10 baris (-n jumlah baris,-c jumlah huruf)
+
+![image](https://github.com/user-attachments/assets/f8d1f8ec-33d2-4b2a-9ab0-bcad98688cba)
+
+-head
+
+menampilkan baris awal dari sebuah file dengan deafult 10 baris (-n jumlah baris,-c jumlah huruf)
+
+![image](https://github.com/user-attachments/assets/457a45cc-5b36-43e3-80ca-e7de33cbf20b)
+
+
+
 
 3. Soal Case: 
 Anda bekerja di sebuah tim data analis untuk sebuah situs web yang menampilkan data pembalap Formula 1. Data pembalap disimpan dalam sebuah file teks md yang bernama formula-one-drivers.md, dengan format sebagai berikut:```
