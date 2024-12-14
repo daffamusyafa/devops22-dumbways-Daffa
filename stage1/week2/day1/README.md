@@ -8,9 +8,8 @@
 
    jawab:
 
-   1.modified
-   2.staging
-   3.commit
+![image](https://github.com/user-attachments/assets/da18b4ab-477e-426e-ac9a-e186f2aee05d)
+
    
 4. Buatlah Dokumentasi tentang Command yang ada di Git (boleh di tambahkan beberapa command yang mungkin belum kita pelajari pada saat pembahasan di kelas)
 
@@ -182,6 +181,10 @@ Dengan melakukan git pull sebelum melakukan git push
 ![image](https://github.com/user-attachments/assets/c9953d8c-3142-4d45-9c72-ca71ec2d864f)
 
 ------------dengan git pull------------------
+
+![image](https://github.com/user-attachments/assets/be497bad-ea28-408e-aa4b-d70eee38d56b)
+
+
 
 
 
