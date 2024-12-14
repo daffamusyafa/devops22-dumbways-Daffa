@@ -96,6 +96,39 @@ menghubungkan ke github menggunakan ssh key
 
 ![image](https://github.com/user-attachments/assets/3998476b-dacd-4541-bd68-6ba46e319f4f)
 
+-touch .gitignore
+
+digunakan untuk membuat file .gitignore yang nantinya digunakan untuk mengasingkan file agar tidak terupload ke github
+
+![image](https://github.com/user-attachments/assets/eedeeca9-c4d3-476c-a296-f8ae5af54826)
+
+-echo "test2" > .gitignore
+
+memindahkan test2 yang bertujuan untuk mengasingkan file test2 agar tidak terupload ke github
+
+![image](https://github.com/user-attachments/assets/29f3d891-ffb3-4653-83bf-997a90f8e6b9)
+
+-git log --oneline
+
+melihat commit yang telah dibuat
+
+![image](https://github.com/user-attachments/assets/6184232a-3115-46a9-b447-fc82a1c7987c)
+
+-git checkout
+
+untuk kembali lagi ke perubahan sebelumnya
+
+![image](https://github.com/user-attachments/assets/e05659f4-ad0d-47f4-856e-529c7b69bfda)
+
+-git branch development
+
+membuat branch baru bernama development
+
+![image](https://github.com/user-attachments/assets/81d12a4c-7c41-4738-be36-bc006cee63b7)
+
+-
+
+
    
 4. Study Case
    
