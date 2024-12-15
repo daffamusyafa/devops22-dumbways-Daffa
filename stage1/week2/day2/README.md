@@ -160,6 +160,8 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/de53ab77-ec73-40ea-9b61-6e32e0aa5817)
 
+![image](https://github.com/user-attachments/assets/24f2d740-ce16-4751-8b76-f9087f3d063c)
+
 5. Implementasikan Firewall pada linux server kalian. 
     - Buatlah 2 buah Virtual Machine. 
     - Study case nya adalah agar hanya server A yang hanya dapat mengakses WebServer yang ada pada server B.
