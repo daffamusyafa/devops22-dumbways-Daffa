@@ -101,8 +101,38 @@ menampilkan baris awal dari sebuah file dengan deafult 10 baris (-n jumlah baris
 
 ![image](https://github.com/user-attachments/assets/457a45cc-5b36-43e3-80ca-e7de33cbf20b)
 
+-watch df -h
+
+![image](https://github.com/user-attachments/assets/095ad899-3717-40ec-a5df-f5a05f6fdb11)
+
+![image](https://github.com/user-attachments/assets/225a64c4-d95c-449b-a630-c9d5f9503664)
+
+-diff
+
+menampilkan perbedaan dari 2 file
+
+![image](https://github.com/user-attachments/assets/0ce37244-8abe-4020-bd46-6177d360fea2)
+
+-cp
+
+copy file
+
+![image](https://github.com/user-attachments/assets/f61cfd55-6286-4467-81ef-5678dd7cf8f5)
+
+-membuat program menggunakan nano
+
+![image](https://github.com/user-attachments/assets/145a702e-05b8-408c-b007-c3a4e75e8c11)
 
 
+![image](https://github.com/user-attachments/assets/f70545ad-7a22-4603-875b-7bd540dedf20)
+
+-less
+
+mencari kata dalam sebuah file
+
+![image](https://github.com/user-attachments/assets/032d79b2-0242-4e26-a97e-4984c828f765)
+
+![image](https://github.com/user-attachments/assets/033a5d9e-9c22-4cc9-b709-5f8966440f41)
 
 3. Soal Case: 
 Anda bekerja di sebuah tim data analis untuk sebuah situs web yang menampilkan data pembalap Formula 1. Data pembalap disimpan dalam sebuah file teks md yang bernama formula-one-drivers.md, dengan format sebagai berikut:```
@@ -116,6 +146,13 @@ Anda bekerja di sebuah tim data analis untuk sebuah situs web yang menampilkan d
   Tugas kalian adalah melakukan beberapa manipulasi text menggunakan perintah `sed` di Linux. Berikut adalah beberapa hal yang harus kalian lakukan.
   - Mengganti kata "Red Bull Racing" dengan "Red Bull Racing Honda" pada kolom Tim.
   - Menghapus seluruh baris yang berisi pembalap dengan posisi lebih dari 3
+
+jawab:
+
+![image](https://github.com/user-attachments/assets/3f454023-0195-4b72-bbac-ee7ab2dfdc03)
+
+![image](https://github.com/user-attachments/assets/8318f60b-3f75-4a7b-b144-bcb64a862b1b)
+
 
 4. Buatlah Bash Script untuk melakukan installasi webserver, dengan kebutuhan case: jika user menginputkan nomor 1 maka dia akan melakukan installasi WebServer Nginx dan jika user menginputkan nomor 2 maka akan melakukan installasi WebServer Apache2 
 
