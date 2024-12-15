@@ -151,13 +151,20 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/3f454023-0195-4b72-bbac-ee7ab2dfdc03)
 
-![image](https://github.com/user-attachments/assets/8318f60b-3f75-4a7b-b144-bcb64a862b1b)
+![image](https://github.com/user-attachments/assets/f3fd0965-434c-4231-9956-42d2e7da63cf)
 
 
 4. Buatlah Bash Script untuk melakukan installasi webserver, dengan kebutuhan case: jika user menginputkan nomor 1 maka dia akan melakukan installasi WebServer Nginx dan jika user menginputkan nomor 2 maka akan melakukan installasi WebServer Apache2 
+
+jawab:
+
+![image](https://github.com/user-attachments/assets/de53ab77-ec73-40ea-9b61-6e32e0aa5817)
 
 5. Implementasikan Firewall pada linux server kalian. 
     - Buatlah 2 buah Virtual Machine. 
     - Study case nya adalah agar hanya server A yang hanya dapat mengakses WebServer yang ada pada server B.
     - Carilah cara agar UFW dapat memblokir ataupun mengizinkan specific protocol jaringan seperti TCP dan UDP.
     - Jelaskan perbedaan protocol Jaringan TCP serta UDP.
+
+jawab:
+
