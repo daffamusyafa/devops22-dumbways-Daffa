@@ -2,7 +2,7 @@
    
    jawab:
 
-   git adalah salah satu aplikasi version control system yang paling terkenal di dunia karena memiliki fitur distributed revision control yang digunakan membantu develover untuk mengatur dan mengetahui perubahan pada file secara terus menerus, terutama kode program.
+   git adalah salah satu aplikasi version control system yang paling terkenal di dunia karena memiliki fitur distributed revision control yang digunakan membantu develover untuk mengatur dan mengetahui perubahan pada file secara terus menerus bersama-sama, terutama kode program.
 
 2. Gambarkan menurut kalian flow dari cara kerja Git ini seperti apa?
 
