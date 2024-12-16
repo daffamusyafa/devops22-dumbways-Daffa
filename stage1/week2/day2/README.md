@@ -170,3 +170,14 @@ jawab:
 
 jawab:
 
+![image](https://github.com/user-attachments/assets/60b5efd5-86a7-4d72-88c9-648f6d88e53b)
+
+![image](https://github.com/user-attachments/assets/adf98eb0-374f-4291-8ca9-6a5ff4d23f2c)
+
+![image](https://github.com/user-attachments/assets/6f406cc2-02be-45a0-abd7-a1e239d7c4f5)
+
+
+-TCP (Transmission Control Protocol) adalah protokol berbasis koneksi yang menjamin pengiriman data dengan keandalan tinggi, memastikan data sampai tujuan dalam urutan yang benar dan melakukan pengiriman ulang jika ada paket yang hilang. Hal ini menjadikan TCP lebih lambat, namun cocok untuk aplikasi seperti web browsing, email, dan file transfer.
+
+-UDP (User Datagram Protocol) adalah protokol tanpa koneksi yang mengirimkan data lebih cepat karena tidak ada pemeriksaan atau pengiriman ulang paket. Namun, UDP tidak menjamin data sampai atau urutan yang benar, sehingga lebih cocok untuk aplikasi yang membutuhkan kecepatan tinggi dan toleransi terhadap kehilangan data, seperti streaming video, VoIP, dan permainan daring.
+
