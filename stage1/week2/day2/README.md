@@ -20,37 +20,84 @@ Ctrl + W	Cari teks di dalam file.
 
 Ctrl + K	Potong baris saat ini.
 
+![image](https://github.com/user-attachments/assets/817da367-a3c1-4577-9225-3efaddb79089)
+
+![image](https://github.com/user-attachments/assets/17a25ce6-8a77-4189-96a6-e4576bd01ecb)
+
 Ctrl + U	Tempel teks yang sebelumnya dipotong.
+
+![image](https://github.com/user-attachments/assets/c72ff4b7-0120-4a7a-9452-9689ae448f7d)
 
 Ctrl + G	Tampilkan panduan bantuan.
 
+![image](https://github.com/user-attachments/assets/26a119e3-d2d2-433c-b627-1adf723f2a07)
+
 Ctrl + C	Tampilkan posisi kursor (baris, kolom).
+
+![image](https://github.com/user-attachments/assets/54497c9e-2dd2-415f-8881-0cedfde1779f)
 
 Ctrl + \	Cari dan ganti teks.
 
+![image](https://github.com/user-attachments/assets/160c5f17-36e8-4a8f-a275-5969bb7d20a6)
+
+![image](https://github.com/user-attachments/assets/39129334-5ed1-458a-a34a-ee92406b0d64)
+
+![image](https://github.com/user-attachments/assets/f7138b30-dbaf-4a75-a989-522ed345f990)
+
 Ctrl + J	Merapikan paragraf.
+
+![image](https://github.com/user-attachments/assets/c0b3d9c9-ac03-4b8c-a476-b577a388b624)
+
+![image](https://github.com/user-attachments/assets/1a5b4e6d-4be0-4f89-90a4-b20db30fa8b1)
 
 Ctrl + R	Masukkan file lain ke dalam file saat ini.
 
-Ctrl + T	Periksa ejaan (jika tersedia).
+![image](https://github.com/user-attachments/assets/c02dd5cc-94c7-4d7b-9b2d-28dfef19922e)
+
+![image](https://github.com/user-attachments/assets/876b8e0a-3a03-47d2-b70b-ac6bfd0974f0)
 
 Alt + A	Mulai memilih teks.
 
+![image](https://github.com/user-attachments/assets/d6113ab5-e588-4612-a2a4-d0d5973c7099)
+
 Alt + 6	Salin teks yang dipilih.
+
+![image](https://github.com/user-attachments/assets/d38572b7-1dad-4728-b3f6-39f286f54c73)
 
 Ctrl + V	Gulir ke bawah satu layar.
 
+![image](https://github.com/user-attachments/assets/baee8b54-dc27-4aab-8a7c-1e34692aa97d)
+
 Ctrl + Y	Gulir ke atas satu layar.
+
+![image](https://github.com/user-attachments/assets/83836637-82a2-48b0-8a68-f3645510f439)
 
 Ctrl + A	Pindah ke awal baris.
 
+![image](https://github.com/user-attachments/assets/0b1a69c8-ae9f-4384-846b-37f5e1cca617)
+
 Ctrl + E	Pindah ke akhir baris.
+
+![image](https://github.com/user-attachments/assets/7742df6e-8d32-44ff-8efb-4dcba80c15f1)
 
 Ctrl + Space	Pindah ke kata berikutnya.
 
-Alt + Space	Pindah ke kata sebelumnya.
+![image](https://github.com/user-attachments/assets/72fc2068-9a56-4933-ae9b-51693b006940)
 
-Ctrl + _	Lompat ke baris dan kolom tertentu.
+![image](https://github.com/user-attachments/assets/15036f57-f305-4dc1-8edd-38c46527464c)
+
+
+Alt + shift + Space	Pindah ke kata sebelumnya.
+
+![image](https://github.com/user-attachments/assets/32943a2f-67f0-4fa9-b398-64c00508433a)
+
+![image](https://github.com/user-attachments/assets/0233aa9e-022e-4d1e-8a15-5edade7368b1)
+
+Ctrl + shift + _	Lompat ke baris dan kolom tertentu.
+
+![image](https://github.com/user-attachments/assets/c681d868-10c1-4a9e-b71c-a853d434d8a0)
+
+![image](https://github.com/user-attachments/assets/216b9f58-490e-4f2e-9391-bd54c2316e52)
 
 
 2. Buatlah Dokumentasi tentang Manipulation Text yang kamu ketahui
