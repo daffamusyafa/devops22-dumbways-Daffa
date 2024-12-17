@@ -34,7 +34,7 @@ meenginstall package-package yang dibutuhkan oleh aplikasi
 
 jawab:
 
-
+jalanka
 
 
 
@@ -42,5 +42,12 @@ jawab:
 4. Deploy aplikasi berikut [dumbflix](https://github.com/dumbwaysdev/dumbflix-frontend), dengan menggunakan `node version 14`
 
 jawab:
+
+-ganti node version ke node version 14 dengan menjalankan node use 14
+
+![image](https://github.com/user-attachments/assets/a235e446-8147-4fc9-9f05-892287f4fd43)
+![image](https://github.com/user-attachments/assets/f79c7fc6-e58b-4a11-bbbd-da167862415b)
+
+
 
 5. Implementasikan penggunaan PM2 agar aplikasi kalian dapat berjalan di background (simple-app-node, simple-app-python, dumbflix)
