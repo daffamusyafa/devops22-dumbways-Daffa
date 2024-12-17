@@ -34,7 +34,7 @@ meenginstall package-package yang dibutuhkan oleh aplikasi
 
 jawab:
 
-jalanka
+jalankan
 
 
 
@@ -43,10 +43,28 @@ jalanka
 
 jawab:
 
--ganti node version ke node version 14 dengan menjalankan node use 14
+-ganti node version ke node version 14 dengan menjalankan nvm use 14
 
 ![image](https://github.com/user-attachments/assets/a235e446-8147-4fc9-9f05-892287f4fd43)
-![image](https://github.com/user-attachments/assets/f79c7fc6-e58b-4a11-bbbd-da167862415b)
+
+-install package yang dibutuhkan aplikasi dengan menjalankan npm install
+
+![image](https://github.com/user-attachments/assets/03d0aa17-3024-4d58-9fb5-55b1d33bfd3a)
+
+-jalankan perintah cat package.json untuk melihat dengan perintah apa kita bisa menjalankan aplikasi
+
+![image](https://github.com/user-attachments/assets/f96a04ab-9ecd-456b-a6e8-16704bfd703e)
+
+-npm start untuk menjalankan aplikasi
+
+![image](https://github.com/user-attachments/assets/d4a1c83d-2870-423d-9dee-95cc32a1ec18)
+
+![image](https://github.com/user-attachments/assets/3a3493eb-9c47-4bd5-ad0b-f74bf18759c0)
+
+
+
+
+
 
 
 
