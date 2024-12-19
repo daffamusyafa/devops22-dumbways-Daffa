@@ -126,13 +126,16 @@ jawab:
 
 -masuk ke file dumflix-frontend
 
-
+![image](https://github.com/user-attachments/assets/aa96ed16-788b-4ef4-adb0-7c1dcc28337e)
 
 -install package
 
 ![image](https://github.com/user-attachments/assets/3c8e2045-485f-4143-a105-8218d6c38f94)
 
-jalankan menggunakan pm2
+-jalankan menggunakan pm2
+
+![image](https://github.com/user-attachments/assets/f4ee3cc3-30bf-4c8a-8bec-9381192ab945)
+
 
 
 
