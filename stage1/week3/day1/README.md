@@ -34,9 +34,33 @@ meenginstall package-package yang dibutuhkan oleh aplikasi
 
 jawab:
 
-jalankan
+=====python=====
 
+install python3
 
+-jalankan python3 index.py untuk menjalankan aplikasi
+
+![image](https://github.com/user-attachments/assets/e1452e02-b085-4a5f-9ee0-cae63ea110ef)
+
+=====go=====
+
+-install go dengan menjalankan perintah wget https://go.dev/dl/go1.23.4.linux-amd64.tar.gz
+
+![image](https://github.com/user-attachments/assets/10764dd4-14eb-4a6a-9176-34c1d73001c2)
+
+- masuk ke root dengan menjalankan sudo su untuk menjalankan beberapa perintah lainnya
+
+![image](https://github.com/user-attachments/assets/295ca2c8-0ee7-4fda-89d2-3f12fcb2ee5d)
+
+![image](https://github.com/user-attachments/assets/8cceb422-b183-470a-b6de-6c9aa5a015a5)
+
+- buat file dengan menjalankan nano main.go untuk membuat program untuk menampilkan text berupa Daffa
+
+![image](https://github.com/user-attachments/assets/607e0b1e-abb6-4406-bfcb-913f4dcb4770)
+
+-jalankan program dengan kode go run main.go
+
+![image](https://github.com/user-attachments/assets/64d3626f-37a6-49d0-bce6-9acf8874fe0c)
 
 
 4. Deploy aplikasi berikut [dumbflix](https://github.com/dumbwaysdev/dumbflix-frontend), dengan menggunakan `node version 14`
