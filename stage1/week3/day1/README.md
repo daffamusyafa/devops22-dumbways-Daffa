@@ -128,5 +128,12 @@ jawab:
 
 
 
+-install package
+
+![image](https://github.com/user-attachments/assets/3c8e2045-485f-4143-a105-8218d6c38f94)
+
+jalankan menggunakan pm2
+
+
 
 
