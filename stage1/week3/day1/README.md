@@ -36,20 +36,20 @@ jawab:
 
 =====python=====
 
-install python3
-
 -install pip
 
-![image](https://github.com/user-attachments/assets/a37d0e7a-5cca-4adf-b671-11423d9f2856)
-
--install pipx
-
-![image](https://github.com/user-attachments/assets/5c427585-d03b-4e08-a0fd-7c375a16150c)
-
+![image](https://github.com/user-attachments/assets/44ef70e2-10f4-4499-9e30-27173bac1571)
 
 -install flask
 
-![image](https://github.com/user-attachments/assets/965e1dc2-1ed5-4c61-b35d-9a4e93a93f57)
+![image](https://github.com/user-attachments/assets/e6685d1c-5b0a-467b-adf0-a4607428a06e)
+
+-buat script
+![image](https://github.com/user-attachments/assets/7e2ec3e3-ea45-452f-8e4c-2769fa82e076)
+
+
+![image](https://github.com/user-attachments/assets/791f241d-82ee-44b8-ad33-a5a9315045dc)
+
 
 -jalankan python3 index.py untuk menjalankan aplikasi
 
@@ -59,22 +59,23 @@ install python3
 
 -install go dengan menjalankan perintah wget https://go.dev/dl/go1.23.4.linux-amd64.tar.gz
 
-![image](https://github.com/user-attachments/assets/10764dd4-14eb-4a6a-9176-34c1d73001c2)
+![image](https://github.com/user-attachments/assets/b6295fa8-ce14-4efd-9535-7501d8fd0822)
 
 - masuk ke root dengan menjalankan sudo su untuk menjalankan beberapa perintah lainnya
 
-![image](https://github.com/user-attachments/assets/295ca2c8-0ee7-4fda-89d2-3f12fcb2ee5d)
-
-![image](https://github.com/user-attachments/assets/8cceb422-b183-470a-b6de-6c9aa5a015a5)
+![image](https://github.com/user-attachments/assets/b82d172c-efc7-4814-a65d-0d4f6bb4c5e7)
 
 - buat file dengan menjalankan nano main.go untuk membuat program untuk menampilkan text berupa Daffa
 
-![image](https://github.com/user-attachments/assets/607e0b1e-abb6-4406-bfcb-913f4dcb4770)
+![image](https://github.com/user-attachments/assets/ca87fe4a-d431-434f-a435-656967d05fc5)
+
+
+![image](https://github.com/user-attachments/assets/30c3cdb0-4475-4e0d-af1a-f4055a37c757)
+
 
 -jalankan program dengan kode go run main.go
 
-![image](https://github.com/user-attachments/assets/64d3626f-37a6-49d0-bce6-9acf8874fe0c)
-
+![image](https://github.com/user-attachments/assets/f9f0fe07-07cc-48cd-8c4f-28ff7a698482)
 
 4. Deploy aplikasi berikut [dumbflix](https://github.com/dumbwaysdev/dumbflix-frontend), dengan menggunakan `node version 14`
 
@@ -101,5 +102,31 @@ jawab:
 5. Iplementasikan penggunaan PM2 agar aplikasi kalian dapat berjalan di background (simple-app-node, simple-app-python, dumbflix)
 
 jawab:
+
+=====node=====
+
+-install pm2
+
+![image](https://github.com/user-attachments/assets/91b54db2-9493-42c2-b9e6-4cf85a3b260f)
+
+-jalankan program menggunakan pm2
+
+![image](https://github.com/user-attachments/assets/c5920819-4e53-4abc-8788-cc27f341b6fc)
+
+=====python=====
+
+-jalankan program menggunakan pm2
+
+![image](https://github.com/user-attachments/assets/793ea1c4-6167-4ffd-862c-d196beece3d2)
+
+=====dumflix=====
+-clone dunbflix
+
+![image](https://github.com/user-attachments/assets/d09263bd-cab1-4914-8a54-5375ab92aa85)
+
+-masuk ke file dumflix-frontend
+
+
+
 
 
