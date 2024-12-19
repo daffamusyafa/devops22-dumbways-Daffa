@@ -38,6 +38,19 @@ jawab:
 
 install python3
 
+-install pip
+
+![image](https://github.com/user-attachments/assets/a37d0e7a-5cca-4adf-b671-11423d9f2856)
+
+-install pipx
+
+![image](https://github.com/user-attachments/assets/5c427585-d03b-4e08-a0fd-7c375a16150c)
+
+
+-install flask
+
+![image](https://github.com/user-attachments/assets/965e1dc2-1ed5-4c61-b35d-9a4e93a93f57)
+
 -jalankan python3 index.py untuk menjalankan aplikasi
 
 ![image](https://github.com/user-attachments/assets/e1452e02-b085-4a5f-9ee0-cae63ea110ef)
@@ -85,11 +98,8 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/3a3493eb-9c47-4bd5-ad0b-f74bf18759c0)
 
+5. Iplementasikan penggunaan PM2 agar aplikasi kalian dapat berjalan di background (simple-app-node, simple-app-python, dumbflix)
+
+jawab:
 
 
-
-
-
-
-
-5. Implementasikan penggunaan PM2 agar aplikasi kalian dapat berjalan di background (simple-app-node, simple-app-python, dumbflix)
