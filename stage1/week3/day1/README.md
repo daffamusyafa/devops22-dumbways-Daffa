@@ -56,6 +56,8 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
 
 ![image](https://github.com/user-attachments/assets/28b3e362-4c73-43af-961a-13ca62f9e083)
 
+![image](https://github.com/user-attachments/assets/f39b7248-341d-4faa-8a77-a0a75a711d6e)
+
 =====python=====
 
 -install pip
