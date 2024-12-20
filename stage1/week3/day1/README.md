@@ -33,6 +33,28 @@ meenginstall package-package yang dibutuhkan oleh aplikasi
 3. Deploy Golang & Python dengan menampilkan nama masing-masing
 
 jawab:
+=====nodejs=====
+-install nvm
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+
+![image](https://github.com/user-attachments/assets/79f8665a-9270-464b-abf1-8e996b43e2ed)
+
+-exec bash
+
+![image](https://github.com/user-attachments/assets/55c4921a-cdf6-4261-966f-122dc4c5f935)
+
+-buat script
+
+![image](https://github.com/user-attachments/assets/4bfbaa9e-9b69-4833-a940-0e9cc28cd99a)
+
+-install express
+
+![image](https://github.com/user-attachments/assets/1200c438-507e-4d1a-b21e-7926cb1d916d)
+
+-jalankan script
+
+![image](https://github.com/user-attachments/assets/28b3e362-4c73-43af-961a-13ca62f9e083)
 
 =====python=====
 
