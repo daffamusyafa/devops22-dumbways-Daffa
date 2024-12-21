@@ -16,7 +16,11 @@ e.lalu dikembalikan ke client berupa ip web
 
 jawab:
 
--modifikasi file nginx.conf
+-jalankan aplikasi menggunakan pm2
+
+![image](https://github.com/user-attachments/assets/05458b1c-2caa-4ea5-85c5-08cd020d6dff)
+
+-modifikasi file nginx.conf pada vm yang berbeda
 
 ![image](https://github.com/user-attachments/assets/53af1554-f8f3-4595-975e-cf607d8d82e2)
 
@@ -40,7 +44,15 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/a3fee060-6c07-41b9-bbe6-03c8956d851e)
 
+-pada lokal lakukan perintah sudo nano /etc/hosts/ untuk menambahkan ip dari web server
 
+![image](https://github.com/user-attachments/assets/cde6e8e3-a218-4921-b4f2-27083ee9c47f)
+
+![image](https://github.com/user-attachments/assets/25277548-2800-4f0a-8dae-9fe16542d218)
+
+-jalankan daffa.xyz pada browser
+
+![image](https://github.com/user-attachments/assets/52d7eb76-e11e-4f49-b3ff-6793538cc83d)
 
 3. Jelaskan apa itu load balance.
 
