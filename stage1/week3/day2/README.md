@@ -34,16 +34,19 @@ jawab:
 
 -periksa apakah masih ada error
 
-![image](https://github.com/user-attachments/assets/0e6e5c6f-1827-4478-96b3-53675235f5e6)
-
 ![image](https://github.com/user-attachments/assets/3dd8d3fd-3e16-40b6-bbd4-2773f593b0c2)
+
+-reload nginx agar configurasi baru terpakai
+
+![image](https://github.com/user-attachments/assets/a3fee060-6c07-41b9-bbe6-03c8956d851e)
+
 
 
 3. Jelaskan apa itu load balance.
 
 jawab:
 
-
+-
 
 4. implementasikan loadbalancing kepada aplikasi  dumbflix-frontend yang telah kalian gunakan.
 
