@@ -58,8 +58,10 @@ jawab:
 
 jawab:
 
-- 
+Load balancing adalah teknik untuk membagi beban kerja secara merata ke beberapa server agar sistem berjalan lebih lancar.
 
 4. implementasikan loadbalancing kepada aplikasi  dumbflix-frontend yang telah kalian gunakan.
 
 jawab:
+
+
