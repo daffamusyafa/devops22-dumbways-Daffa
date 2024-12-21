@@ -58,7 +58,7 @@ jawab:
 
 jawab:
 
--
+- 
 
 4. implementasikan loadbalancing kepada aplikasi  dumbflix-frontend yang telah kalian gunakan.
 
