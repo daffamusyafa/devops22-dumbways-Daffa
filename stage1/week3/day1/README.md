@@ -4,29 +4,12 @@ jawab:
 
 Application monolith adalah aplikasi yang semua fiturnya dibuat satu sistem sedangkan Application Microservices adalah aplikasi yang fiturnya dibuat secara terpisah dan bisa dijalankan secara independen.
 
-2. Deploy Aplikasi dumbflix-frontend (NodeJS)
+2. Deploy nodejs,Golang & Python dengan menampilkan nama masing-masing
 
 jawab:
 
-
--npm
-
-meenginstall package-package yang dibutuhkan oleh aplikasi
-
-![image](https://github.com/user-attachments/assets/81eaffa1-d24b-4a87-b888-faf90aa1cd13)
-
--jalankan perintah npm start
-
-![image](https://github.com/user-attachments/assets/34708752-ccbb-40b5-ac82-54b2b979c320)
-
-![image](https://github.com/user-attachments/assets/5b873fef-b290-4256-82f9-bfdf86e59572)
-
-![image](https://github.com/user-attachments/assets/9703a1e8-3520-4f95-a79a-1077102dd349)
-
-3. Deploy Golang & Python dengan menampilkan nama masing-masing
-
-jawab:
 =====nodejs=====
+
 -install nvm
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
@@ -98,7 +81,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
 
 ![image](https://github.com/user-attachments/assets/f9f0fe07-07cc-48cd-8c4f-28ff7a698482)
 
-4. Deploy aplikasi berikut [dumbflix](https://github.com/dumbwaysdev/dumbflix-frontend), dengan menggunakan `node version 14`
+3. Deploy aplikasi berikut [dumbflix](https://github.com/dumbwaysdev/dumbflix-frontend), dengan menggunakan `node version 14`
 
 jawab:
 
@@ -132,7 +115,7 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/3a3493eb-9c47-4bd5-ad0b-f74bf18759c0)
 
-5. Iplementasikan penggunaan PM2 agar aplikasi kalian dapat berjalan di background (simple-app-node, simple-app-python, dumbflix)
+4. Iplementasikan penggunaan PM2 agar aplikasi kalian dapat berjalan di background (simple-app-node, simple-app-python, dumbflix)
 
 jawab:
 
