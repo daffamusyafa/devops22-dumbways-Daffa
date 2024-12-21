@@ -8,13 +8,6 @@ Application monolith adalah aplikasi yang semua fiturnya dibuat satu sistem seda
 
 jawab:
 
--lakukan cloning dumflix-frontend 
-
-![image](https://github.com/user-attachments/assets/70ee40e1-71dd-4027-b401-cf4d4791b256)
-
--buka file dumflix-frontend
-
-![image](https://github.com/user-attachments/assets/b6657ae1-ff20-44e5-b3aa-de8dfdd6d575)
 
 -npm
 
@@ -43,6 +36,10 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
 -exec bash
 
 ![image](https://github.com/user-attachments/assets/55c4921a-cdf6-4261-966f-122dc4c5f935)
+
+-install npm
+
+![image](https://github.com/user-attachments/assets/5c8fe5d8-8354-4e2f-beda-5e52ffc52b8c)
 
 -buat script
 
@@ -104,6 +101,18 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
 4. Deploy aplikasi berikut [dumbflix](https://github.com/dumbwaysdev/dumbflix-frontend), dengan menggunakan `node version 14`
 
 jawab:
+
+-lakukan cloning dumflix-frontend 
+
+![image](https://github.com/user-attachments/assets/70ee40e1-71dd-4027-b401-cf4d4791b256)
+
+-buka file dumflix-frontend
+
+![image](https://github.com/user-attachments/assets/b6657ae1-ff20-44e5-b3aa-de8dfdd6d575)
+
+-download node versi 14
+
+![image](https://github.com/user-attachments/assets/60d0587e-9730-4b05-bd7e-e41e04730240)
 
 -ganti node version ke node version 14 dengan menjalankan nvm use 14
 
