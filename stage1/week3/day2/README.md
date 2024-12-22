@@ -86,6 +86,25 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/e8e3bfa5-9af9-43da-993d-28ee1d0e2e79)
 
+=====tambahan=====
+
+-weight
+
+membuat batas maksimal pengunjung sebelum diteruskan ke server lainnya
+
+![image](https://github.com/user-attachments/assets/8d389433-20aa-4590-b6a9-76daa617dcaf)
+
+-backup
+
+membuat server backup yang akan otomatis berfungsi ketika semua server down
+
+![image](https://github.com/user-attachments/assets/e73e74bc-8e4a-4ac9-81d1-b2bb19d77fbb)
+
+-mengatur maksimal request
+
+![image](https://github.com/user-attachments/assets/57ca41e2-a905-4095-8891-9375dccd58ef)
+
+
 
 
 
