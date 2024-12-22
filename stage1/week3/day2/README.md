@@ -58,10 +58,37 @@ jawab:
 
 jawab:
 
-Load balancing adalah teknik untuk membagi beban kerja secara merata ke beberapa server agar sistem berjalan lebih lancar.
+Load balance adalah sebuah metode untuk mendistribusikan beban kerjaan pada 2 server aplikasi atau lebih agar tidak overload
 
 4. implementasikan loadbalancing kepada aplikasi  dumbflix-frontend yang telah kalian gunakan.
 
 jawab:
+
+-masuk kedalam vm web browser dan edit skript daffa.conf
+
+![image](https://github.com/user-attachments/assets/144d213d-4e12-4233-a0c1-0fa3b3f7d919)
+
+![image](https://github.com/user-attachments/assets/1f9b5ccb-9b6c-4e5b-bf10-d82788e173d8)
+
+-cek sintax
+
+![image](https://github.com/user-attachments/assets/57b723fc-6ae5-4733-a557-4ac1a5d8a8e3)
+
+- reload agar perubahan terupdate
+
+![image](https://github.com/user-attachments/assets/a302b28f-bc22-4a9c-b12f-738ad75e96f6)
+
+-lakukan percobaan salah satu aplikasi server dimatikan dan keduanya dimatikan
+
+![image](https://github.com/user-attachments/assets/d8d9ee1d-3c14-4555-b064-8374fbbd25a1)
+
+![image](https://github.com/user-attachments/assets/251e573d-d36f-4ad2-8bb7-8fc0b9e7fddf)
+
+![image](https://github.com/user-attachments/assets/e8e3bfa5-9af9-43da-993d-28ee1d0e2e79)
+
+
+
+
+
 
 
