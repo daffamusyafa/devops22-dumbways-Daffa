@@ -18,6 +18,7 @@ Jawaban
 
 2.install nvm versi 14
 
+![image](https://github.com/user-attachments/assets/045df3e1-d6ad-495a-b5a2-a8635ae803fe)
 
 
 3.install aplikasi frontend-dumflix
@@ -26,4 +27,5 @@ Jawaban
 
 ![image](https://github.com/user-attachments/assets/14fb4373-b3da-4a34-a875-5b70eda03abf)
 
+![image](https://github.com/user-attachments/assets/f3256a6c-1f71-4835-8c19-343859d4114e)
 
