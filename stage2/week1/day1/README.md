@@ -57,7 +57,28 @@ Tasks 2:
 	- Try to remote your database from your local computer with mysql-client
 jawab:
 
+-install mysql
+
+![image](https://github.com/user-attachments/assets/2e364900-ce52-45e1-9209-4caaf8adf2e8)
+
+-masuk ke database
+
+![image](https://github.com/user-attachments/assets/c8a8032c-7616-4d83-88be-a09ace5122c9)
+
+-terapkan password agar lebih aman
+
+![image](https://github.com/user-attachments/assets/c5939f44-0944-4e46-be75-e39c78abf6ba)
+
+![image](https://github.com/user-attachments/assets/67cd9466-1001-4f8b-85d7-e884e8733a04)
+
+![image](https://github.com/user-attachments/assets/7a207b53-4ac8-4022-8666-8ffac478b5da)
+
 -
+
+
+
+
+
 
 
 
