@@ -36,9 +36,28 @@ jawab:
 
 -coba masuk menggunakan password
 
--![image](https://github.com/user-attachments/assets/8c1d19bc-23c4-4dad-a839-6e1b30bfa1e5)
+![image](https://github.com/user-attachments/assets/8c1d19bc-23c4-4dad-a839-6e1b30bfa1e5)
 
-2.
+Tasks 2:
+- Deploy database MySQL 
+	- Setup secure_installation
+	- Add password for `root` user
+	- Create new user for MySQL 
+	- Create new database
+	- Create privileges for your new user so they can access the database you created
+	- Dont forget to change the MySQL bind address on `/etc/mysql/mysql.conf.d/mysqld.cnf`
+- Role Based
+	- Create new database call `demo` and make some dummy table call `transaction`
+	- Create a 2 role with the name `admin`, and `guest` that will be used to see and manage the 'transaction' table.
+	- Give `SELECT`, `INSERT`, `UPDATE`, and `DELETE` access rights to the transaction table for the `admin` role you just created. and only give `SELECT` access to guest.
+	- Create a new user with the username `your_name` and password `your_password`. Add the user to the admin role.
+	- Create a new user with the username `guest` and password `guest`. Add the user to the guest role.
+	- Test all of your user
+- Remote User
+	- Try to remote your database from your local computer with mysql-client
+jawab:
+
+-
 
 
 
