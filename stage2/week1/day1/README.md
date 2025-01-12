@@ -184,6 +184,21 @@ jawab:
 
 jawab:
 
+-cloning aplikasi dumbflix-frontend
+
+![image](https://github.com/user-attachments/assets/121b624d-a56f-4619-99da-5c041a5d9c51)
+
+-install npm versi 14
+
+![image](https://github.com/user-attachments/assets/fef44fd8-02e5-46e5-8274-5f2661915e39)
+
+-masuk ke dumbflix-frontend dan setting aplikasi api.js
+
+
+
+
+
+
 5.Tasks :
 - Install nginx
 - Buatlah reverse proxy dan gunakan domain dengan nama kalian ex:
@@ -196,6 +211,26 @@ jawab:
 - Happy Explore :))
 
 jawab:
+
+-buat reverse proxy
+
+![image](https://github.com/user-attachments/assets/99eaffc7-a8aa-4377-bf8b-bb44eaa81460)
+
+![image](https://github.com/user-attachments/assets/d7ee7b1c-408b-4a35-997b-64d9a444457d)
+
+![image](https://github.com/user-attachments/assets/9ed2298f-1916-4279-b8d9-9210daff0c19)
+
+![image](https://github.com/user-attachments/assets/592e195d-e591-4320-b84b-860a9392759a)
+
+![image](https://github.com/user-attachments/assets/b1c033fa-5d23-4d90-b7f8-8617b365aa50)
+
+-gunakan certbot
+
+![image](https://github.com/user-attachments/assets/1b1a654a-339b-43f8-8520-2bf7fbcb6e43)
+
+![image](https://github.com/user-attachments/assets/69c8d81f-bfc4-4e8e-8c09-91fcee065245)
+
+![image](https://github.com/user-attachments/assets/6c49ddd6-a93a-427e-aa72-a211fa944f1b)
 
 
 
