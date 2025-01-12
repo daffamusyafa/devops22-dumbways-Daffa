@@ -73,7 +73,70 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/7a207b53-4ac8-4022-8666-8ffac478b5da)
 
+-buat database baru
+
+![image](https://github.com/user-attachments/assets/24d67f58-64a0-4331-846f-d311e31cbde9)
+
+
+-berikan privilege
+
+![image](https://github.com/user-attachments/assets/778f887e-26d4-4c90-b021-3afd67fa622d)
+
+-restart
+
+![image](https://github.com/user-attachments/assets/a6a1d0a0-0c4d-4823-9497-4e448aa422f9)
+
+![image](https://github.com/user-attachments/assets/9bfa64fe-1fc2-4e3f-b8ed-1cb93d6b5c13)
+
 -
+
+3.Dumbflix Backend
+
+Tasks :
+
+    Deploy Wayshub-Backend
+        Clone wayshub backend application
+        Use Node Version 14
+        Dont forget to change configuration on dumbflix-backend/config/config.json and then adjust it to your database.
+        Install sequelize-cli
+        Running migration
+        Deploy apllication on Top PM2
+jawab:
+
+-cloning backand dari github
+
+![image](https://github.com/user-attachments/assets/0f31818f-760b-4f3c-b7ab-1526fd9b62f4)
+
+-masuk ke dumbflix-backend
+
+![image](https://github.com/user-attachments/assets/48706560-49b1-463e-94e8-f8056812601b)
+
+-install nvm
+
+![image](https://github.com/user-attachments/assets/9aec9173-1808-4293-b31e-7c55546e9102)
+
+-install versi 14
+
+![image](https://github.com/user-attachments/assets/82c1e508-eb0e-48be-b6c4-8c5b6f1d1386)
+
+-baca README.md
+
+![image](https://github.com/user-attachments/assets/5c07e37e-d507-4a38-84de-7caba9ae2237)
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
