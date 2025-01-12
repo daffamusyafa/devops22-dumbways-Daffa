@@ -123,7 +123,93 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/5c07e37e-d507-4a38-84de-7caba9ae2237)
 
--
+-copy ke .env
+
+![image](https://github.com/user-attachments/assets/1072db61-3ffe-48d1-a269-1b8936c4e1d4)
+
+-edit file 
+
+![image](https://github.com/user-attachments/assets/ac2e3c31-c83d-4bfe-b4aa-ec55541d2fea)
+
+![image](https://github.com/user-attachments/assets/cf679810-f9a2-4916-b9bb-ac5adae0c81d)
+
+
+-beralih ke app server lalu masuk ke file $ cd /etc/mysql/
+
+![image](https://github.com/user-attachments/assets/22cfe529-1440-4833-83d6-86db0210edef)
+
+
+![image](https://github.com/user-attachments/assets/3f09afac-8333-47f9-bc31-f2e26fe29217)
+
+
+![image](https://github.com/user-attachments/assets/ca4f5866-476c-40fb-b74a-7d1b9f5c7427)
+
+-beralih kembali ke getaway server lalu package
+
+![image](https://github.com/user-attachments/assets/c88cfbe1-2159-4020-8f87-17beb15e23de)
+
+-instal sequalize
+
+![image](https://github.com/user-attachments/assets/9ee0fd49-9a5f-4fe2-be6d-e64005111b12)
+
+
+-migrasi data
+
+![image](https://github.com/user-attachments/assets/41e00c64-d00e-4a80-9fd9-a2aa2d97d1cd)
+
+![image](https://github.com/user-attachments/assets/36f3f867-0b0a-41a0-a48b-0165cd92a961)
+
+-untuk menjalankan aplikasi menggunakan pm2 maka install terlebih dahulu pm2
+
+![image](https://github.com/user-attachments/assets/b3ebd2f5-25ab-49a5-91a1-a89725818213)
+
+![image](https://github.com/user-attachments/assets/e62c1648-432a-412c-bb9f-a21fe848c843)
+
+![image](https://github.com/user-attachments/assets/495693f7-19ee-4236-92f9-ff2d1773829b)
+
+![image](https://github.com/user-attachments/assets/88df5ba6-2bfc-459f-853c-41f0afe1407e)
+
+-jalankan aplikasi menggunakan pm2
+
+![image](https://github.com/user-attachments/assets/0c58e453-9578-46c3-81f7-b1f1eff0675d)
+
+![image](https://github.com/user-attachments/assets/0b85456b-0d9d-40fd-9436-9126dd5814e4)
+
+4.Tasks :
+
+- Clone wayshub frontendapplication
+- Use Node Version 14
+- Dont forget to change configuration on `src/config/api.js` and then adjust it to backend url.
+- Deploy  frontend apllication on Top PM2
+
+jawab:
+
+5.Tasks :
+- Install nginx
+- Buatlah reverse proxy dan gunakan domain dengan nama kalian ex:
+  - frontend : randal.studentdumbways.my.id 
+     - ssl cloudflare boleh Active / atau ingin menggunakan SSL certbot juga dipersilahkan
+  - backend : api.randal.studentdumbways.my.id
+     - untuk Installation Certbot ada banyak cara (salah 1 nya seperti pada saat di kelas), atau kalau kalian menemukan cara lain untuk melakukan installation certbot atau tools yang lain yang digunakan untuk melakukan generate ssl feel free to use yaa.
+     - Generate SSL untuk reverse proxy kalian. 
+     - Chalange coba cari bagaimana cara pengimplementasian Wildcard SSL 
+- Happy Explore :))
+
+jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
