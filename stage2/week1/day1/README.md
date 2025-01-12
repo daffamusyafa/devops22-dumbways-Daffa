@@ -216,18 +216,15 @@ jawab:
 
 -gunakan reverse proxy
 
+![image](https://github.com/user-attachments/assets/42c805ac-354b-4716-8b9e-ca41559b4dca)
 
+![image](https://github.com/user-attachments/assets/4c39ed86-b290-461b-8982-7569bde3562e)
 
+![image](https://github.com/user-attachments/assets/4acedb6f-9c9d-4acc-bbdd-38fa54dffc0d)
 
+![image](https://github.com/user-attachments/assets/25cee9b7-91be-4cd9-bd61-fdbb2717a206)
 
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/46598489-6374-47f8-a739-e07f8e435984)
 
 5.Tasks :
 - Install nginx
