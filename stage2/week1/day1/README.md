@@ -177,6 +177,8 @@ jawab:
 
 4.Tasks :
 
+dumbflix-frontend
+
 - Clone wayshub frontendapplication
 - Use Node Version 14
 - Dont forget to change configuration on `src/config/api.js` and then adjust it to backend url.
@@ -192,7 +194,35 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/fef44fd8-02e5-46e5-8274-5f2661915e39)
 
--masuk ke dumbflix-frontend dan setting aplikasi api.js
+-masuk ke dumbflix-frontend dan ganti url
+
+![image](https://github.com/user-attachments/assets/698ba5d8-cc04-422f-b244-4f592224b6bf)
+
+![image](https://github.com/user-attachments/assets/8afa790a-89d0-4fda-a436-44a75ef38404)
+
+-install package dan jalankan menggunakan pm2
+
+![image](https://github.com/user-attachments/assets/45241784-6670-4ee2-8fdd-66db8ec058d6)
+
+![image](https://github.com/user-attachments/assets/6f21e5bb-e5f1-4490-b882-f5d6f1ab67d0)
+
+![image](https://github.com/user-attachments/assets/e0a1c0f9-97fc-43be-95dd-5cd93cfea24f)
+
+![image](https://github.com/user-attachments/assets/dbbe8bfa-cdb8-4870-b559-42be5b0c4a75)
+
+![image](https://github.com/user-attachments/assets/7ca89ef1-1cb2-41a5-b4b9-d804cdd803c4)
+
+![image](https://github.com/user-attachments/assets/8232696f-f2e9-4e42-ac78-9dba1eef3536)
+
+-gunakan reverse proxy
+
+
+
+
+
+
+
+
 
 
 
@@ -231,6 +261,14 @@ jawab:
 ![image](https://github.com/user-attachments/assets/69c8d81f-bfc4-4e8e-8c09-91fcee065245)
 
 ![image](https://github.com/user-attachments/assets/6c49ddd6-a93a-427e-aa72-a211fa944f1b)
+
+-lihat certifikat
+
+![image](https://github.com/user-attachments/assets/cf426212-23ec-45bd-8c3e-9cc394cc1951)
+
+![image](https://github.com/user-attachments/assets/9dc5e686-36c5-4fd6-b3fc-e35c1bae0a5c)
+
+
 
 
 
