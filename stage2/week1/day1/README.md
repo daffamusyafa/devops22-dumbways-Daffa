@@ -86,13 +86,37 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/778f887e-26d4-4c90-b021-3afd67fa622d)
 
+-ubah configurasi
+
+![image](https://github.com/user-attachments/assets/0f44cee6-313c-4aeb-87aa-29a201021ab9)
+
+![image](https://github.com/user-attachments/assets/b76d83ef-401e-48b9-96d3-97fb5210fc86)
+
 -restart
 
 ![image](https://github.com/user-attachments/assets/a6a1d0a0-0c4d-4823-9497-4e448aa422f9)
 
 ![image](https://github.com/user-attachments/assets/9bfa64fe-1fc2-4e3f-b8ed-1cb93d6b5c13)
 
--
+-buat database dengan nama demo
+
+![image](https://github.com/user-attachments/assets/b2fadbd8-42b7-4db5-9428-609aa55cdb94)
+
+-buat table transaction
+
+![image](https://github.com/user-attachments/assets/a38ccf2c-db58-4693-ac35-815669e7c9d0)
+
+-tambahkan isi pada tabel transactiom
+
+![image](https://github.com/user-attachments/assets/ea90451b-feb0-42bb-ac43-4674d8cbdfef)
+
+-buat role admin dan guest
+
+![image](https://github.com/user-attachments/assets/d02c6ff5-1144-4cf7-af97-355806638c93)
+
+-berikan beberapa fitur hak akses untuk admin dan guest
+
+
 
 3.Dumbflix Backend
 
