@@ -1,6 +1,8 @@
-1.- Create new user for all of your server
+1.
 
-  - The server can login with SSH-KEY and password 
+- Create new user for all of your server
+
+- The server can login with SSH-KEY and password 
 
 jawab:
 
@@ -39,6 +41,7 @@ jawab:
 ![image](https://github.com/user-attachments/assets/8c1d19bc-23c4-4dad-a839-6e1b30bfa1e5)
 
 Tasks 2:
+
 - Deploy database MySQL 
 	- Setup secure_installation
 	- Add password for `root` user
@@ -55,6 +58,7 @@ Tasks 2:
 	- Test all of your user
 - Remote User
 	- Try to remote your database from your local computer with mysql-client
+
 jawab:
 
 -install mysql
