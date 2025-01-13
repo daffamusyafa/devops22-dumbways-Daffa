@@ -68,6 +68,10 @@ jawaban:
 
 -remote
 
+![image](https://github.com/user-attachments/assets/ef4e2bcf-3aad-4cc4-a4e4-c8119496eb36)
+
+![image](https://github.com/user-attachments/assets/8e2b1267-30d2-4e88-80b9-12927e8a9a34)
+
 
 
 
