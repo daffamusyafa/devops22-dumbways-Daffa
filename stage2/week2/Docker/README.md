@@ -42,6 +42,20 @@ Tasks :
 
 Jawaban:
 
+#masuk kedalam server apps
+
+![image](https://github.com/user-attachments/assets/5b34386d-9bca-4bdd-b922-68a6f4d336c2)
+
+#buat user dengan nama team1
+
+![image](https://github.com/user-attachments/assets/4a85e209-b5a5-40af-98b1-c6841c9e2648)
+
+#berikan akses root kepada user team1
+
+
+
+
+
 
 
 
