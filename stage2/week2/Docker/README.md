@@ -52,6 +52,13 @@ Jawaban:
 
 #berikan akses root kepada user team1
 
+![image](https://github.com/user-attachments/assets/926b7e07-8ea9-4827-892a-6536f28f0f03)
+
+#aktifkan auntication
+
+
+
+
 
 
 
