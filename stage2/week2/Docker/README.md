@@ -90,6 +90,13 @@ Jawaban:
 
 #buat environment staging dan production
 
+#buat container dan images untuk database berupa mysql
+
+![image](https://github.com/user-attachments/assets/8f138982-ca7e-4386-bd65-9a2ff64529c8)
+
+![image](https://github.com/user-attachments/assets/fba3ef57-ae9a-4fc7-91bd-cc754086714a)
+
+
 
 
 
