@@ -1,6 +1,5 @@
 Tasks :
 [ Docker ]
-ssh-keygen -f ~/.ssh/known_hosts -R 103.127.139.123
 
     Buatlah suatu user baru dengan nama team kalian
 
@@ -70,6 +69,10 @@ Jawaban:
 #modifikasi file sshd_config
 
 ![image](https://github.com/user-attachments/assets/af217573-90e6-4f3d-861e-100a3d1c3833)
+
+![image](https://github.com/user-attachments/assets/e09496bb-474e-4ffb-8aae-5902c71a34bc)
+
+#
 
 
 
