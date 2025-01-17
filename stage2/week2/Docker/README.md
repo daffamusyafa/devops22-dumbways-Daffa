@@ -54,7 +54,16 @@ Jawaban:
 
 ![image](https://github.com/user-attachments/assets/926b7e07-8ea9-4827-892a-6536f28f0f03)
 
-#aktifkan auntication
+#masuk file /etc/ssh/sshd-config.d/60-cloudimg-settings.conf
+
+![image](https://github.com/user-attachments/assets/81c49f88-631a-474b-addf-0552aa759203)
+
+# ubah PasswordAuthentication menjadi yes
+
+![image](https://github.com/user-attachments/assets/d1208e80-26eb-488e-8cb3-164b8fb61b8c)
+
+#
+
 
 
 
