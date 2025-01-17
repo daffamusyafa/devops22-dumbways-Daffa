@@ -86,6 +86,12 @@ Jawaban:
 
 ![image](https://github.com/user-attachments/assets/0ba46be2-4030-45d1-9a1c-66be15b882dc)
 
+![image](https://github.com/user-attachments/assets/227a6e4f-fde6-4f21-ad2e-db0d0acc2d12)
+
+#buat environment staging dan production
+
+
+
 
 
 
