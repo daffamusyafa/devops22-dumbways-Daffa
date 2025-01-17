@@ -72,10 +72,15 @@ Jawaban:
 
 ![image](https://github.com/user-attachments/assets/e09496bb-474e-4ffb-8aae-5902c71a34bc)
 
-#masuk menggunakan password
+#restart configurasi
 
 ![image](https://github.com/user-attachments/assets/49739f2c-7e21-4bf8-a309-7bc4526a110b)
 
+#masuk menggunakan password
+
+![image](https://github.com/user-attachments/assets/576e2802-c862-45b6-9932-fc7e1be4e2cf)
+
+#install Docker
 
 
 
