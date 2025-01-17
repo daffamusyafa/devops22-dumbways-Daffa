@@ -80,7 +80,13 @@ Jawaban:
 
 ![image](https://github.com/user-attachments/assets/576e2802-c862-45b6-9932-fc7e1be4e2cf)
 
-#install Docker
+#install docker
+
+![image](https://github.com/user-attachments/assets/30cf2b62-7fc9-4be0-ab6e-9ec3661fcae7)
+
+![image](https://github.com/user-attachments/assets/0ba46be2-4030-45d1-9a1c-66be15b882dc)
+
+
 
 
 
