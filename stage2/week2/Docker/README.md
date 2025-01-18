@@ -94,7 +94,17 @@ Jawaban:
 
 ![image](https://github.com/user-attachments/assets/8f138982-ca7e-4386-bd65-9a2ff64529c8)
 
+#buat volume untuk database
+
 ![image](https://github.com/user-attachments/assets/fba3ef57-ae9a-4fc7-91bd-cc754086714a)
+
+#buat user baru dan beri hak akses root
+
+![image](https://github.com/user-attachments/assets/0ca236f3-083c-47a5-8249-9a2422c95a5e)
+
+#buat database waysub
+
+![image](https://github.com/user-attachments/assets/6c983d7b-42c9-42f3-a4a0-99ec17b7ae10)
 
 #clone aplikasi backend dari github
 
@@ -108,13 +118,33 @@ Jawaban:
 
 ![image](https://github.com/user-attachments/assets/3e5785b6-52c8-458b-903d-4c8a44573827)
 
-![image](https://github.com/user-attachments/assets/6cbcb239-0fcb-4325-a526-ff9c509f88be)
+![image](https://github.com/user-attachments/assets/758ab35a-617b-41f7-b5d0-ffdba42df736)
 
-#buat database waysub
+#buat Dockerfile
 
-![image](https://github.com/user-attachments/assets/cc3c1206-1b48-4928-aff4-ec2124725aa3)
+![image](https://github.com/user-attachments/assets/05c1a0da-4b1d-4210-a76c-3baed6e7a4c4)
+
+
+#modifikasi Dockerfile untuk menjalankan aplikasi
+
+![image](https://github.com/user-attachments/assets/3c061533-9295-4111-96e8-65b41492c4f6)
+
+#jalankan aplikasi
+
+![image](https://github.com/user-attachments/assets/3db3ac89-7b6d-4b17-b19c-bcbdd25b859b)
+
+![image](https://github.com/user-attachments/assets/32b54edc-5b11-4c0f-b493-2003231a7c69)
+
+#cek jalankan 103.127.139.123:5000 di browser
+
+![image](https://github.com/user-attachments/assets/71993eea-9f9d-4306-ba62-ec746bf52235)
 
 #
+
+
+
+
+
 
 
 
