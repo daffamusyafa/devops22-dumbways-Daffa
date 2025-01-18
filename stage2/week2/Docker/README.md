@@ -139,7 +139,25 @@ Jawaban:
 
 ![image](https://github.com/user-attachments/assets/71993eea-9f9d-4306-ba62-ec746bf52235)
 
+#clone aplikasi wayshub-frontend
+
+![image](https://github.com/user-attachments/assets/7affaf1b-9bda-464d-8e48-bf533a4969dc)
+
+#buat file Dockerfile
+
+![image](https://github.com/user-attachments/assets/2b93ad1c-e5fd-4549-b0eb-df757c04c0c7)
+
+#build aplikasi wayshub-frontend
+
+![image](https://github.com/user-attachments/assets/f091215f-39f1-4913-8ff8-8d7bbbc5a550)
+
 #
+
+
+#buat file docker-compose.yaml
+
+![image](https://github.com/user-attachments/assets/3194cd52-0269-4ae3-ad4b-a03d1fc71e30)
+
 
 
 
