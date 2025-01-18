@@ -96,6 +96,31 @@ Jawaban:
 
 ![image](https://github.com/user-attachments/assets/fba3ef57-ae9a-4fc7-91bd-cc754086714a)
 
+#clone aplikasi backend dari github
+
+![image](https://github.com/user-attachments/assets/a9929435-4d29-4913-8f6d-48279a71a83d)
+
+#masuk ke folder waysub backend lalu copy env.example ke .env
+
+![image](https://github.com/user-attachments/assets/a9dee327-3882-4fe6-bcbf-1a5efe251f03)
+
+#modifikasi file config/config.json
+
+![image](https://github.com/user-attachments/assets/3e5785b6-52c8-458b-903d-4c8a44573827)
+
+![image](https://github.com/user-attachments/assets/6cbcb239-0fcb-4325-a526-ff9c509f88be)
+
+#buat database waysub
+
+![image](https://github.com/user-attachments/assets/cc3c1206-1b48-4928-aff4-ec2124725aa3)
+
+#
+
+
+
+
+
+
 
 
 
