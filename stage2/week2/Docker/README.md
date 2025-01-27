@@ -86,9 +86,11 @@ Jawaban:
 
 ![image](https://github.com/user-attachments/assets/33a3f6d0-9051-41fb-861c-15e00cc9c9d0)
 
+![image](https://github.com/user-attachments/assets/9a3111e2-d170-4ec8-8b22-057abed25c22)
+
 ![image](https://github.com/user-attachments/assets/c2c4df2b-c396-439b-8dd6-e22a80e40ed0)
 
-#buat environment staging dan production
+# STAGING
 
 #buat container dan images untuk database berupa mysql
 
