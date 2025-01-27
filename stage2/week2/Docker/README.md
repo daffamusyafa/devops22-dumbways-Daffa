@@ -92,54 +92,31 @@ Jawaban:
 
 # STAGING
 
-#buat container dan images untuk database berupa mysql
+#buat folder team1-deploy-staging
 
-![image](https://github.com/user-attachments/assets/8f138982-ca7e-4386-bd65-9a2ff64529c8)
+![image](https://github.com/user-attachments/assets/91fadaa6-adf9-4646-913d-606184cbb4ab)
 
-#buat volume untuk database
+#clone aplikasi wayshub-backend
 
-![image](https://github.com/user-attachments/assets/fba3ef57-ae9a-4fc7-91bd-cc754086714a)
-
-#buat user baru dan beri hak akses root
-
-![image](https://github.com/user-attachments/assets/0ca236f3-083c-47a5-8249-9a2422c95a5e)
-
-#buat database waysub
-
-![image](https://github.com/user-attachments/assets/6c983d7b-42c9-42f3-a4a0-99ec17b7ae10)
-
-#clone aplikasi backend dari github
-
-![image](https://github.com/user-attachments/assets/a9929435-4d29-4913-8f6d-48279a71a83d)
+![image](https://github.com/user-attachments/assets/7e73a4bf-ac24-49b1-a689-369c6c6ff063)
 
 #masuk ke folder waysub backend lalu copy env.example ke .env
 
 ![image](https://github.com/user-attachments/assets/a9dee327-3882-4fe6-bcbf-1a5efe251f03)
 
-#modifikasi file config/config.json
+#modifikasi file config/config.json didalam focler backend
 
-![image](https://github.com/user-attachments/assets/3e5785b6-52c8-458b-903d-4c8a44573827)
+![image](https://github.com/user-attachments/assets/68627eed-1bfe-4e94-9fb3-4400654de4a2)
 
-![image](https://github.com/user-attachments/assets/758ab35a-617b-41f7-b5d0-ffdba42df736)
+![image](https://github.com/user-attachments/assets/26a7ab02-7bfb-46cc-923d-a6e3a769c19f)
 
 #buat Dockerfile
 
 ![image](https://github.com/user-attachments/assets/05c1a0da-4b1d-4210-a76c-3baed6e7a4c4)
 
-
 #modifikasi Dockerfile untuk menjalankan aplikasi
 
-![image](https://github.com/user-attachments/assets/3c061533-9295-4111-96e8-65b41492c4f6)
-
-#jalankan aplikasi
-
-![image](https://github.com/user-attachments/assets/3db3ac89-7b6d-4b17-b19c-bcbdd25b859b)
-
-![image](https://github.com/user-attachments/assets/32b54edc-5b11-4c0f-b493-2003231a7c69)
-
-#cek jalankan 103.127.139.123:5000 di browser
-
-![image](https://github.com/user-attachments/assets/71993eea-9f9d-4306-ba62-ec746bf52235)
+![image](https://github.com/user-attachments/assets/72b1fdea-66d0-4c94-87a4-b4d577155b5e)
 
 #clone aplikasi wayshub-frontend
 
@@ -147,49 +124,27 @@ Jawaban:
 
 #buat file Dockerfile
 
-![image](https://github.com/user-attachments/assets/2b93ad1c-e5fd-4549-b0eb-df757c04c0c7)
+![image](https://github.com/user-attachments/assets/298e3bb0-66fc-4fd1-b8ed-2278be16d6e5)
 
-#build aplikasi wayshub-frontend
+buat file nginx.conf didalam folder nginx
 
-![image](https://github.com/user-attachments/assets/f091215f-39f1-4913-8ff8-8d7bbbc5a550)
+![image](https://github.com/user-attachments/assets/6d48caa8-1c58-4cde-aa2a-123ea850dcb5)
 
-#
+![image](https://github.com/user-attachments/assets/5831187f-dc31-4f63-966d-fccfb45d9385)
+
+#buat certbot dan wilcard ssl
+
 
 
 #buat file docker-compose.yaml
 
-![image](https://github.com/user-attachments/assets/3194cd52-0269-4ae3-ad4b-a03d1fc71e30)
+![image](https://github.com/user-attachments/assets/08851e82-8992-433f-af29-d531dfd0de45)
 
+#jalankan docker compose up --build -d
 
+![image](https://github.com/user-attachments/assets/57b3ca7c-5aa3-41b7-b02f-6e48223f2bba)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/ca285302-3507-4b49-9f90-a1a14943a35f)
 
 
 
