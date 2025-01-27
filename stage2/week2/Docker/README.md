@@ -82,11 +82,11 @@ Jawaban:
 
 #install docker
 
-![image](https://github.com/user-attachments/assets/30cf2b62-7fc9-4be0-ab6e-9ec3661fcae7)
+![image](https://github.com/user-attachments/assets/5fa652c6-ea36-477e-a3bd-b98ff41583ae)
 
-![image](https://github.com/user-attachments/assets/0ba46be2-4030-45d1-9a1c-66be15b882dc)
+![image](https://github.com/user-attachments/assets/33a3f6d0-9051-41fb-861c-15e00cc9c9d0)
 
-![image](https://github.com/user-attachments/assets/227a6e4f-fde6-4f21-ad2e-db0d0acc2d12)
+![image](https://github.com/user-attachments/assets/c2c4df2b-c396-439b-8dd6-e22a80e40ed0)
 
 #buat environment staging dan production
 
