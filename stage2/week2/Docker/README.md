@@ -134,8 +134,6 @@ buat file nginx.conf didalam folder nginx
 
 #buat certbot dan wilcard ssl
 
-
-
 #buat file docker-compose.yaml
 
 ![image](https://github.com/user-attachments/assets/08851e82-8992-433f-af29-d531dfd0de45)
@@ -145,6 +143,20 @@ buat file nginx.conf didalam folder nginx
 ![image](https://github.com/user-attachments/assets/57b3ca7c-5aa3-41b7-b02f-6e48223f2bba)
 
 ![image](https://github.com/user-attachments/assets/ca285302-3507-4b49-9f90-a1a14943a35f)
+
+#coba sign up dan sig in
+
+![image](https://github.com/user-attachments/assets/8a3d1908-f93a-4e2f-a8f3-ff14ba66dd91)
+
+![image](https://github.com/user-attachments/assets/82251ac1-bd3a-415c-8415-09b093e258a6)
+
+![image](https://github.com/user-attachments/assets/893a0893-e1d3-4f3d-864b-2c2fd85e8cff)
+
+![image](https://github.com/user-attachments/assets/88c19771-bd85-4825-9920-8060d715fe36)
+
+# Production
+
+
 
 
 
