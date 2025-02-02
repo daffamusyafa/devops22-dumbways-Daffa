@@ -71,3 +71,10 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/ab1a79e6-d57c-4c54-9896-f29fb07141a7)
 
+
+
+# 8.jalankan ansible-playbook setup-adduser.yaml
+
+![image](https://github.com/user-attachments/assets/c34a894e-c188-4a57-bbd0-9bd47285e488)
+
+
