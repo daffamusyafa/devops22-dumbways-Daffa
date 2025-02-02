@@ -59,4 +59,15 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/b07df213-02f6-454b-8d05-a509e55ee48f)
 
-# 5.buat file 
+# 5.install whois
+
+![image](https://github.com/user-attachments/assets/e598da40-59d7-4845-b981-e6037a0a5085)
+
+# 6.buat mkpassword
+
+![image](https://github.com/user-attachments/assets/eb275eed-cd7a-4939-a96e-40643072aa2b)
+
+# 7.buat file untuk tambah user dan bisa masuk dengan password maupun ssh key
+
+![image](https://github.com/user-attachments/assets/ab1a79e6-d57c-4c54-9896-f29fb07141a7)
+
