@@ -57,7 +57,7 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/7b356ffd-715f-41e0-9197-4de03d9a3496)
 
-![image](https://github.com/user-attachments/assets/b07df213-02f6-454b-8d05-a509e55ee48f)
+![image](https://github.com/user-attachments/assets/6c856d56-26e6-49fb-9476-eb65454404d1)
 
 # 5.install whois
 
@@ -71,10 +71,12 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/ab1a79e6-d57c-4c54-9896-f29fb07141a7)
 
-
+![image](https://github.com/user-attachments/assets/2bb302a4-6832-4538-bba3-506c3384022e)
 
 # 8.jalankan ansible-playbook setup-adduser.yaml
 
 ![image](https://github.com/user-attachments/assets/c34a894e-c188-4a57-bbd0-9bd47285e488)
+
+
 
 
