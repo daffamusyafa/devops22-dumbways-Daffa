@@ -6,8 +6,9 @@
 
 Jawaban:
 
-# 1.buat master di server utaman
+# 1.buat master di server utama
 
+![image](https://github.com/user-attachments/assets/1cb86cc8-d300-43fd-a2e7-8bc3c841e123)
 
 # 2.buat worker di server worker1 dan worker2
 
@@ -34,4 +35,9 @@ Jawaban:
 ![image](https://github.com/user-attachments/assets/763540d7-b702-4dba-90e3-b3c25a1cc450)
 
 ![image](https://github.com/user-attachments/assets/bd64031b-937f-4332-985d-e7bf131b14e0)
+
+
+
+
+
 
