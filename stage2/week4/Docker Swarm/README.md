@@ -10,4 +10,10 @@ Jawaban:
 
 ![image](https://github.com/user-attachments/assets/4c6aff51-fa8a-487f-807f-4d38ccc591ae)
 
-# 
+# 2.buat worker di server worker1 dan worker2
+
+![image](https://github.com/user-attachments/assets/881654fe-74be-40f0-838b-d7189797ca64)
+
+![image](https://github.com/user-attachments/assets/17053c70-b677-404f-b87d-4dd803d7e2d3)
+
+![image](https://github.com/user-attachments/assets/04310a9d-e1b1-4c1f-9f62-b057acd658b3)
