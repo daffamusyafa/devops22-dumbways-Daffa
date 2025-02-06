@@ -8,12 +8,30 @@ Jawaban:
 
 # 1.buat master di server utaman
 
-![image](https://github.com/user-attachments/assets/4c6aff51-fa8a-487f-807f-4d38ccc591ae)
 
 # 2.buat worker di server worker1 dan worker2
 
-![image](https://github.com/user-attachments/assets/881654fe-74be-40f0-838b-d7189797ca64)
+![image](https://github.com/user-attachments/assets/56532e97-8a3f-4350-a708-9c0ab2313637)
 
-![image](https://github.com/user-attachments/assets/17053c70-b677-404f-b87d-4dd803d7e2d3)
+![image](https://github.com/user-attachments/assets/498fc1fe-6d68-41b7-adb2-4d02db5a85ed)
 
-![image](https://github.com/user-attachments/assets/04310a9d-e1b1-4c1f-9f62-b057acd658b3)
+![image](https://github.com/user-attachments/assets/038eb7fe-1dd3-4ce1-a87e-802096e1f4c4)
+
+# 3. setup aplikasi frontend
+
+![image](https://github.com/user-attachments/assets/c6a27ad9-32b2-49d9-9a81-eb8e00a2e83b)
+
+![image](https://github.com/user-attachments/assets/3920edf0-e09a-4c57-9cc7-d29212ed7529)
+
+![image](https://github.com/user-attachments/assets/34c9ac6f-4814-4036-be62-272b24bc6232)
+
+![image](https://github.com/user-attachments/assets/1c4d964e-b68b-453c-a45d-1a1009cc8b1b)
+
+![image](https://github.com/user-attachments/assets/c692525e-2809-487e-a26d-da1d5dce1f54)
+
+![image](https://github.com/user-attachments/assets/fc0e6c34-40b3-4b4c-97f7-875a2a1eb214)
+
+![image](https://github.com/user-attachments/assets/763540d7-b702-4dba-90e3-b3c25a1cc450)
+
+![image](https://github.com/user-attachments/assets/bd64031b-937f-4332-985d-e7bf131b14e0)
+
