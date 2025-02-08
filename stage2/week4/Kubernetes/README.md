@@ -35,3 +35,7 @@ Jawaban:
 
 ![image](https://github.com/user-attachments/assets/54f4c267-696e-45ff-a374-c73a197994ee)
 
+# 5.Install ingress nginx using helm or manifes
+
+
+
