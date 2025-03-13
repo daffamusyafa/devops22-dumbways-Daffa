@@ -47,4 +47,6 @@ jawab:
 
 ![image](https://github.com/user-attachments/assets/25cee9b7-91be-4cd9-bd61-fdbb2717a206)
 
-![image](https://github.com/user-attachments/assets/46598489-6374-47f8-a739-e07f8e435984)
+![Screenshot from 2025-03-13 11-27-05](https://github.com/user-attachments/assets/f727378f-af17-4d6d-92ae-359b8ba879f7)
+
+![Screenshot from 2025-03-13 11-26-47](https://github.com/user-attachments/assets/7504cf66-46df-493c-9f1b-facd5926a06f)
